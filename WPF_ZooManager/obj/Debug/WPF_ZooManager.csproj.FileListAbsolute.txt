@@ -1,0 +1,15 @@
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.AssemblyReference.cache
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\App.g.cs
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager_MarkupCompile.cache
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager_MarkupCompile.lref
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\bin\Debug\WPF_ZooManager.exe.config
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\bin\Debug\WPF_ZooManager.exe
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\bin\Debug\WPF_ZooManager.pdb
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\MainWindow.baml
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.g.resources
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.Properties.Resources.resources
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.GenerateResource.cache
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.exe
+C:\Users\Mikey\source\repos\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.pdb
